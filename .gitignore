@@ -1,2 +1,3 @@
 *.docx 
-/BrainTumor 
+/src/BrainTumor 
+/.ipynb_checkpoints 
